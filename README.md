@@ -49,6 +49,20 @@ ipl-cricket-sql-analysis/
 - The top 5 venues for chasing teams show a **>55%** chase success rate
 - Powerplay run rates have increased by **~18%** from 2008 to 2020
 
+## Visual Analytics & Generated Reports
+
+### 1. All-Time Leading Run Scorers (2008–2020)
+![Top Run Scorers](outputs/charts/top_run_scorers.png)
+
+### 2. Franchise Win Percentages Across All Seasons
+![Franchise Win Rates](outputs/charts/franchise_win_rates.png)
+
+### 3. Impact of Toss Decision on Match Outcomes
+![Toss Decision Impact](outputs/charts/toss_decision_impact.png)
+
+### 4. Over-by-Over Phase Run Rate Dynamics
+![Phase Run Rates](outputs/charts/phase_run_rates.png)
+
 ## Setup & Usage
 
 ```bash
